@@ -5,7 +5,7 @@
 -  Hands on knowledge of Linux and DevOps.
 -  "If we know coding well, We can do wonders" - KVRao Sir.
 <!-- -  I’m looking for Jobs. -->
-- 📫 How to reach me http://www.linkedin.com/in/aadarshkumar-jadhav03
+- 📫 How to reach me www.linkedin.com/in/aadarshkumar-jadhav18
 
 <!---
 aadarshkumar03/aadarshkumar03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
